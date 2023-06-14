@@ -15,7 +15,10 @@
         <!-- ======= Blog Section ======= -->
         <section id="blog" class="blog">
           <div class="container" data-aos="fade-up">
-    
+            <div class="section-header">
+              <h2>Agenda</h2>
+              <p>Quam sed id excepturi ccusantium dolorem ut quis dolores nisi llum nostrum enim velit qui ut et autem uia reprehenderit sunt deleniti</p>
+            </div>
             <div class="row gy-4 posts-list">
     
               <div class="col-xl-4 col-md-6">

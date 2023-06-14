@@ -102,7 +102,7 @@
               <li class="nav-item">
                 <a href="kategoribuku.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Data User</p>
+                  <p>Register</p>
                 </a>
               </li>
               <li class="nav-item">
@@ -127,12 +127,6 @@
                 <a href="kategoribuku.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Data Surat</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="tag.php" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Pelayanan Surat</p>
                 </a>
               </li>
               <li class="nav-item">

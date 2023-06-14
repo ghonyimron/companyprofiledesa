@@ -21,7 +21,7 @@
 
     <div class="section-header">
       <h2>Agenda</h2>
-      <p>Quam sed id excepturi ccusantium dolorem ut quis dolores nisi llum nostrum enim velit qui ut et autem uia reprehenderit sunt deleniti</p>
+      <p>Kegiatan di Desa Junrejo yang Akan Datang</p>
     </div>
 
     <div class="portfolio-isotope" data-portfolio-filter="*" data-portfolio-layout="masonry" data-portfolio-sort="original-order" data-aos="fade-up" data-aos-delay="100">
@@ -32,8 +32,8 @@
           <div class="portfolio-wrap">
             <a href="assets/img/portfolio/app-1.jpg" data-gallery="portfolio-gallery-app" class="glightbox"><img src="assets/img/portfolio/app-1.jpg" class="img-fluid" alt=""></a>
             <div class="portfolio-info">
-              <h4><a href="portfolio-details.html" title="More Details">App 1</a></h4>
-              <p>Lorem ipsum, dolor sit amet consectetur</p>
+              <h4>Jumat Berkah</h4>
+              <p>Rutinan bagi- bagi sembako ibu ibu PKK</p>
             </div>
           </div>
         </div><!-- End Portfolio Item -->
@@ -42,7 +42,7 @@
           <div class="portfolio-wrap">
             <a href="assets/img/portfolio/product-1.jpg" data-gallery="portfolio-gallery-app" class="glightbox"><img src="assets/img/portfolio/product-1.jpg" class="img-fluid" alt=""></a>
             <div class="portfolio-info">
-              <h4><a href="portfolio-details.html" title="More Details">Product 1</a></h4>
+              <h4>Product 1</h4>
               <p>Lorem ipsum, dolor sit amet consectetur</p>
             </div>
           </div>
@@ -52,7 +52,7 @@
           <div class="portfolio-wrap">
             <a href="assets/img/portfolio/branding-1.jpg" data-gallery="portfolio-gallery-app" class="glightbox"><img src="assets/img/portfolio/branding-1.jpg" class="img-fluid" alt=""></a>
             <div class="portfolio-info">
-              <h4><a href="portfolio-details.html" title="More Details">Branding 1</a></h4>
+              <h4>Branding 1</h4>
               <p>Lorem ipsum, dolor sit amet consectetur</p>
             </div>
           </div>
@@ -62,7 +62,7 @@
           <div class="portfolio-wrap">
             <a href="assets/img/portfolio/books-1.jpg" data-gallery="portfolio-gallery-app" class="glightbox"><img src="assets/img/portfolio/books-1.jpg" class="img-fluid" alt=""></a>
             <div class="portfolio-info">
-              <h4><a href="portfolio-details.html" title="More Details">Books 1</a></h4>
+              <h4>Books 1</h4>
               <p>Lorem ipsum, dolor sit amet consectetur</p>
             </div>
           </div>
@@ -72,7 +72,7 @@
           <div class="portfolio-wrap">
             <a href="assets/img/portfolio/app-2.jpg" data-gallery="portfolio-gallery-app" class="glightbox"><img src="assets/img/portfolio/app-2.jpg" class="img-fluid" alt=""></a>
             <div class="portfolio-info">
-              <h4><a href="portfolio-details.html" title="More Details">App 2</a></h4>
+              <h4>App 2</h4>
               <p>Lorem ipsum, dolor sit amet consectetur</p>
             </div>
           </div>
@@ -82,7 +82,7 @@
           <div class="portfolio-wrap">
             <a href="assets/img/portfolio/product-2.jpg" data-gallery="portfolio-gallery-app" class="glightbox"><img src="assets/img/portfolio/product-2.jpg" class="img-fluid" alt=""></a>
             <div class="portfolio-info">
-              <h4><a href="portfolio-details.html" title="More Details">Product 2</a></h4>
+              <h4>Product 2</h4>
               <p>Lorem ipsum, dolor sit amet consectetur</p>
             </div>
           </div>
@@ -92,7 +92,7 @@
           <div class="portfolio-wrap">
             <a href="assets/img/portfolio/branding-2.jpg" data-gallery="portfolio-gallery-app" class="glightbox"><img src="assets/img/portfolio/branding-2.jpg" class="img-fluid" alt=""></a>
             <div class="portfolio-info">
-              <h4><a href="portfolio-details.html" title="More Details">Branding 2</a></h4>
+              <h4>Branding 2</h4>
               <p>Lorem ipsum, dolor sit amet consectetur</p>
             </div>
           </div>
@@ -102,7 +102,7 @@
           <div class="portfolio-wrap">
             <a href="assets/img/portfolio/books-2.jpg" data-gallery="portfolio-gallery-app" class="glightbox"><img src="assets/img/portfolio/books-2.jpg" class="img-fluid" alt=""></a>
             <div class="portfolio-info">
-              <h4><a href="portfolio-details.html" title="More Details">Books 2</a></h4>
+              <h4>Books 2</h4>
               <p>Lorem ipsum, dolor sit amet consectetur</p>
             </div>
           </div>
@@ -112,7 +112,7 @@
           <div class="portfolio-wrap">
             <a href="assets/img/portfolio/app-3.jpg" data-gallery="portfolio-gallery-app" class="glightbox"><img src="assets/img/portfolio/app-3.jpg" class="img-fluid" alt=""></a>
             <div class="portfolio-info">
-              <h4><a href="portfolio-details.html" title="More Details">App 3</a></h4>
+              <h4>App 3</h4>
               <p>Lorem ipsum, dolor sit amet consectetur</p>
             </div>
           </div>
@@ -122,7 +122,7 @@
           <div class="portfolio-wrap">
             <a href="assets/img/portfolio/product-3.jpg" data-gallery="portfolio-gallery-app" class="glightbox"><img src="assets/img/portfolio/product-3.jpg" class="img-fluid" alt=""></a>
             <div class="portfolio-info">
-              <h4><a href="portfolio-details.html" title="More Details">Product 3</a></h4>
+              <h4>Product 3</h4>
               <p>Lorem ipsum, dolor sit amet consectetur</p>
             </div>
           </div>
@@ -132,7 +132,7 @@
           <div class="portfolio-wrap">
             <a href="assets/img/portfolio/branding-3.jpg" data-gallery="portfolio-gallery-app" class="glightbox"><img src="assets/img/portfolio/branding-3.jpg" class="img-fluid" alt=""></a>
             <div class="portfolio-info">
-              <h4><a href="portfolio-details.html" title="More Details">Branding 3</a></h4>
+              <h4>Branding 3</h4>
               <p>Lorem ipsum, dolor sit amet consectetur</p>
             </div>
           </div>
@@ -142,7 +142,7 @@
           <div class="portfolio-wrap">
             <a href="assets/img/portfolio/books-3.jpg" data-gallery="portfolio-gallery-app" class="glightbox"><img src="assets/img/portfolio/books-3.jpg" class="img-fluid" alt=""></a>
             <div class="portfolio-info">
-              <h4><a href="portfolio-details.html" title="More Details">Books 3</a></h4>
+              <h4>Books 3</h4>
               <p>Lorem ipsum, dolor sit amet consectetur</p>
             </div>
           </div>
