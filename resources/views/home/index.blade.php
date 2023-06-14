@@ -10,8 +10,8 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="assets/img/logo.png" rel="icon">
+  <link href="assets/img/logo.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -105,14 +105,14 @@
     <!-- ======= Profil Us Section ======= -->
     <section id="about" class="about">
       <div class="container" data-aos="fade-up">
+        <div class="col-lg-12">
+          <h3>Sejarah Berdirinya Desa Junrejo</h3>
+          <img src="assets/img/profil.jpg" class="img-fluid rounded-4 mb-4" alt="">
+          <p>Dari hasil pelacakan sejarah oleh sesepuh dan tokoh masyarakat Desa Junrejo disebutkan bahwa asal-usul Desa kami yang bernama Desa Junrejo berasal dari kata “DYON– RETJO“ atau  “JUN WATU“. Dyon menurut bahasa jawa kuno artinya tempat air gentong, sehingga Dyion-Retjo atau Arca Dyion Watu bias bermakna tempat air dari batu.</p>
+          <p>Konon menurut sumber informasi yang didapat dari cerita turun temurun, keberadaan JUN tersebut sejak abad IX atau Masa Kerajaan Tumapel/Singosari. Pada tahun 1914 M di Desa Junwatu ditemukan benda berupa ”JUN” dan di Desa Telogo rejo ditemukan ”TELOGO”(menurut masyarakat setempat disebut pula ”JEDING”dalam bahasa Jawa).</p>
+        </div>
 
-        <div class="row gy-4">
-          <div class="col-lg-6">
-            <h3>Sejarah Berdirinya Desa Junrejo</h3>
-            <img src="assets/img/about.jpg" class="img-fluid rounded-4 mb-4" alt="">
-            <p>Dari hasil pelacakan sejarah oleh sesepuh dan tokoh masyarakat Desa Junrejo disebutkan bahwa asal-usul Desa kami yang bernama Desa Junrejo berasal dari kata “DYON– RETJO“ atau  “JUN WATU“. Dyon menurut bahasa jawa kuno artinya tempat air gentong, sehingga Dyion-Retjo atau Arca Dyion Watu bias bermakna tempat air dari batu.</p>
-            <p>Konon menurut sumber informasi yang didapat dari cerita turun temurun, keberadaan JUN tersebut sejak abad IX atau Masa Kerajaan Tumapel/Singosari. Pada tahun 1914 M di Desa Junwatu ditemukan benda berupa ”JUN” dan di Desa Telogo rejo ditemukan ”TELOGO”(menurut masyarakat setempat disebut pula ”JEDING”dalam bahasa Jawa).</p>
-          </div>
+        <div class="row gy-4 mt-3">
           <div class="col-lg-6">
             <div class="content ps-0 ps-lg-5">
               <h3 class="fst-italic"> Visi</h3>
@@ -121,6 +121,11 @@
                 <li><i class="bi bi-check-circle-fill"></i>Adapun yang dimaksud Transparan adalah Pemerintah Desa dalam pembuatan Kebijakan dan Pengelolaan keuangan dilakukan secara terbuka untuk diketahui oleh masyarakat, guna meningkatkan kepercayaan kepada Pemerintah Desa.</li>
                 <li><i class="bi bi-check-circle-fill"></i>Sedangkan yang dimaksud dengan Sejahtera adalah Mewujudkan masyarakat yang terpenuhi hak-hak dasarnya baik dari aspek kesehatan, pendidikan dan ekonomi yang ditandai dengan meningkatnya angka Indek Pembangunan Manusia (IPM) yang didukung dengan terwujudnya kebebasan kehidupan beragama dan bernegara yang ditunjukkan dengan penurunan angka kemiskinan dan jumlah keluarga Pra Sejahtera</li>
               </ul>
+              
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="content ps- ps-lg-5">
               <h3 class="fst-italic">Misi</h3>
               <ul>
                 <li><i class="bi bi-check-circle-fill"></i>Meningkatkan kualitas sumberdaya manusia yang unggul dan bermartabat</li>
@@ -129,6 +134,7 @@
                 <li><i class="bi bi-check-circle-fill"></i>Melestarikan dan mengembangkanbudayalokalDesaJunrejo</li>
               </ul>
             </div>
+            
           </div>
         </div>
 
