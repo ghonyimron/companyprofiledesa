@@ -52,6 +52,6 @@ class HomeController extends Controller
 
     public function beritadetails()
     {
-        return view ('home.berita.berita-details');
+        return view ('home.berita-details');
     }
 }

@@ -16,7 +16,7 @@ Route::get('/layanan/suratkettidakmampu', [HomeController::class,'ketsurattidakm
 Route::get('/layanan/surat-ket-usaha', [HomeController::class,'suratketusaha']);
 Route::get('/berita', [HomeController::class,'berita']);
 Route::get('/contact', [HomeController::class,'contact']);
-Route::get('/berita/berita-details', [HomeController::class,'beritadetails']);
+Route::get('/berita-details', [HomeController::class,'beritadetails']);
 
 // Auth
 Route::get('/login', [AuthController::class,'login'])->name('login');

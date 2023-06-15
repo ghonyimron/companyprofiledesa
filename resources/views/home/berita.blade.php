@@ -31,7 +31,7 @@
                   <p class="post-category">Politics</p>
     
                   <h2 class="title">
-                    <a href="/berita/berita-details">Dolorum optio tempore voluptas dignissimos</a>
+                    <a href="berita-details">Dolorum optio tempore voluptas dignissimos</a>
                   </h2>
     
                   <div class="d-flex align-items-center">
@@ -57,7 +57,7 @@
                   <p class="post-category">Sports</p>
     
                   <h2 class="title">
-                    <a href="/berita/berita-details">Nisi magni odit consequatur autem nulla dolorem</a>
+                    <a href="berita-details">Nisi magni odit consequatur autem nulla dolorem</a>
                   </h2>
     
                   <div class="d-flex align-items-center">
@@ -83,7 +83,7 @@
                   <p class="post-category">Entertainment</p>
     
                   <h2 class="title">
-                    <a href="/berita/berita-details">Possimus soluta ut id suscipit ea ut in quo quia et soluta</a>
+                    <a href="berita-details">Possimus soluta ut id suscipit ea ut in quo quia et soluta</a>
                   </h2>
     
                   <div class="d-flex align-items-center">
@@ -109,7 +109,7 @@
                   <p class="post-category">Sports</p>
     
                   <h2 class="title">
-                    <a href="/berita/berita-details">Non rem rerum nam cum quo minus olor distincti</a>
+                    <a href="berita-details">Non rem rerum nam cum quo minus olor distincti</a>
                   </h2>
     
                   <div class="d-flex align-items-center">
@@ -135,7 +135,7 @@
                   <p class="post-category">Politics</p>
     
                   <h2 class="title">
-                    <a href="/berita/berita-details">Accusamus quaerat aliquam qui debitis facilis consequatur</a>
+                    <a href="berita-details">Accusamus quaerat aliquam qui debitis facilis consequatur</a>
                   </h2>
     
                   <div class="d-flex align-items-center">
@@ -161,7 +161,7 @@
                   <p class="post-category">Entertainment</p>
     
                   <h2 class="title">
-                    <a href="/berita/berita-details">Distinctio provident quibusdam numquam aperiam aut</a>
+                    <a href="berita-details">Distinctio provident quibusdam numquam aperiam aut</a>
                   </h2>
     
                   <div class="d-flex align-items-center">
