@@ -27,3 +27,4 @@ Route::get('/logout', [AuthController::class,'logout']);
 Route::get('/dashboard', [DashboardController::class,'index'])->middleware('auth');
 
 Route::resource('profildesa',ProfildesaController::class)->middleware('auth');
+Route::resource('agenda',ProfildesaController::class)->middleware('auth');
