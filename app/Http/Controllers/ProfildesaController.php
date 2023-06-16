@@ -11,7 +11,7 @@ class ProfildesaController extends Controller
      */
     public function index()
     {
-        return view('profildesa.index');
+        return view('dashboard.profildesa.index');
     }
 
     /**
